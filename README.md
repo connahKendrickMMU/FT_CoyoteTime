@@ -1,7 +1,7 @@
 # FT_CoyoteTime
 In this focus topic you will work on a key aspect of the assignment, gameplay iteration and refinement. You'll look a a common place mechanic in platformers, Coyote Time. 
 
-This is a relativitly easy one that you will be able to do,but the focus is on seeing a mechanic refinement and planning how oyu can shwo this in your assignment.
+This is a relatively easy one that you will be able to do, but the focus is on seeing a mechanic refinement and planning how you can show this in your assignment.
 
 ## Overview
 Try to implement the mechanic using the following hints to adjust the CoyoteTime Character scripts:
@@ -110,11 +110,11 @@ MORTAL KOMBAT!
 - Coyote time expands just jumping, in [An Elaborate History of Chess](https://store.steampowered.com/app/1255020/An_Elaborate_History_of_Chess/) It is used on the GUI to allow selection when pieces are moving. See where else you can use it in your game.
 - Look at the game [Celeste](https://store.steampowered.com/app/504230/Celeste/) they make precise changes to jump frames such as the jumping up vs drop, for precise gameplay design. They also make use of Coyote Time.
 - Look at [Helldivers 2](https://store.steampowered.com/app/553850/HELLDIVERS_2/) they make the shooting more weighty and less smooth with an additional reticule to show the off set. The goal was to make the gameplay feel more gritty to fit the theme.
-- Explore the [content examples](https://www.fab.com/listings/4d251261-d98c-48e2-baee-8f4e47c67091) to see allthe feature of unreal. Epic give guideance on [how to explore them](https://dev.epicgames.com/documentation/en-us/unreal-engine/content-examples-sample-project-for-unreal-engine).
+- Explore the [content examples](https://www.fab.com/listings/4d251261-d98c-48e2-baee-8f4e47c67091) to see all the features of unreal. Epic give guidance on [how to explore them](https://dev.epicgames.com/documentation/en-us/unreal-engine/content-examples-sample-project-for-unreal-engine).
 
 ### Hard - Your turn
 - Focus on what mechanic you want to develop.
 - How can you refine and iterate on that mechanic.
-- Talk with me, the helpers, all of your colleauges and friends on your idea and how to refine it. 
+- Talk with me, the helpers, all of your colleagues and friends on your idea and how to refine it. 
 # Reference
 Content is made by Connah Kendrick (Connah.Kendrick@mmu.ac.uk) using the Unreal Engine Third Person Template for the MMU 1st year Game Mechanics Module taught to both Game Development and Game Design Students. 
