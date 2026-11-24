@@ -116,5 +116,6 @@ MORTAL KOMBAT!
 - Focus on what mechanic you want to develop.
 - How can you refine and iterate on that mechanic.
 - Talk with me, the helpers, all of your colleagues and friends on your idea and how to refine it. 
+
 # Reference
 Content is made by Connah Kendrick (Connah.Kendrick@mmu.ac.uk) using the Unreal Engine Third Person Template for the MMU 1st year Game Mechanics Module taught to both Game Development and Game Design Students. 
